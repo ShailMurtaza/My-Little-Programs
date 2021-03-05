@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from pyperclip import copy
 dragon = (u'\U0001F409')
-data = (u"%sShail%s" % (dragon, dragon))
+data = (u"%sS𝒽𝒶𝒾𝓁 شعیل%s" % (dragon, dragon))
 copy(data)
-raw_input("Go and Paste")
+input("Go and Paste")
 
 # from time import sleep as sl
 # from threading import Thread
